@@ -1,6 +1,6 @@
 ---
 featured_image: /images/mrak-mall-1200.jpeg
-omit_header_text: true
+omit_header_text: t
 type: page
 ---
 
