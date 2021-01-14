@@ -7,11 +7,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://davislac.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 1</title>
-      <link>https://davislac.github.io/projects/project1/</link>
+      <title>Member Four</title>
+      <link>https://davislac.github.io/members/member1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davislac.github.io/projects/project1/</guid>
+      <guid>https://davislac.github.io/members/member1/</guid>
+      <description>Member one is a very cool person.</description>
+    </item>
+    
+    <item>
+      <title>Member One</title>
+      <link>https://davislac.github.io/members/member1-copy-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davislac.github.io/members/member1-copy-2/</guid>
+      <description>Member one is a very cool person.</description>
+    </item>
+    
+    <item>
+      <title>Member Three</title>
+      <link>https://davislac.github.io/members/member1-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davislac.github.io/members/member1-copy/</guid>
+      <description>Member one is a very cool person.</description>
+    </item>
+    
+    <item>
+      <title>Member Two</title>
+      <link>https://davislac.github.io/members/member1-copy-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davislac.github.io/members/member1-copy-3/</guid>
+      <description>Member one is a very cool person.</description>
+    </item>
+    
+    <item>
+      <title>Project 1</title>
+      <link>https://davislac.github.io/initiatives/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davislac.github.io/initiatives/project1/</guid>
       <description>This is where a very cool project can go</description>
     </item>
     
